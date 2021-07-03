@@ -1,3 +1,6 @@
+#index.js z linkiem do bazy danych
+./server/index.js
+
 # Logs
 logs
 *.log
